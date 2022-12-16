@@ -9,7 +9,7 @@
 
 - 🤝 Also have some experience with **ARDUINO, AUTOCAD, INVENTOR**
 
-- 👨‍💻 All of my projects are available at [JoseMinuche](JoseMinuche)
+- 👨‍💻 All of my projects are available at [JoseMinuche](J)
 
 - 📫 How to reach me **jvminuche@gmail.com**
 
