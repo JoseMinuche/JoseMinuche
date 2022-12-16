@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, WELCOME TO MY PROFILE!</h1>
 <h3 align="center">I'm Jose Minuche.. Nice to meet you!!</h3>
-<h3 align="center">***PROUDLY ECUADORIAN 🇪🇨:**_</h3>
+<h3 align="center">_*_PROUDLY ECUADORIAN_*_</h3>
 
 <p align="left"> <a href="https://twitter.com/minuche99" target="blank"><img src="https://img.shields.io/twitter/follow/minuche99?logo=twitter&style=for-the-badge" alt="minuche99" /></a> </p>
 
