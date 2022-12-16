@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, WELCOME TO MY PROFILE!</h1>
 <h3 align="center">I'm Jose Minuche.. Nice to meet you!!</h3>
+<h3 align="center">***PROUDLY ECUADORIAN 🇪🇨:**_</h3>
 
 <p align="left"> <a href="https://twitter.com/minuche99" target="blank"><img src="https://img.shields.io/twitter/follow/minuche99?logo=twitter&style=for-the-badge" alt="minuche99" /></a> </p>
 
-- 🌱 I’m currently studying at **ESPOL ✏️**
 
-- 💬 You can ask me about **py, java, C, MySQL**
+- 🌱 I’m currently studying at **ESPOL ✏️** 🐢:
+
+- 💬 You can ask me about **py, java, C, MySQL** 
 
 - 🤝 Also have some experience with **ARDUINO, AUTOCAD, INVENTOR**
 
@@ -15,7 +17,7 @@
 
 - 👀 I’m interested in programing and learning new things everyday.
 
-- ✨ I love all kind of challenges
+- ✨ I love all kind of challenges!
 
 - ⚡ Fun fact **I used to think I wasn't good at programming... Now I'm sure I'm not 😂**
 
