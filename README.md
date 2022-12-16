@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, WELCOME TO MY PROFILE!</h1>
 <h3 align="center">I'm Jose Minuche.. Nice to meet you!!</h3>
-**_PROUDLY ECUADORIAN_**
-:ecuador:
 
 <p align="left"> <a href="https://twitter.com/minuche99" target="blank"><img src="https://img.shields.io/twitter/follow/minuche99?logo=twitter&style=for-the-badge" alt="minuche99" /></a> </p>
 
-
+- **_PROUDLY ECUADORIAN_ 🇪🇨:**
 - 🌱 I’m currently studying at **ESPOL ✏️** 🐢:
 
 - 💬 You can ask me about **py, java, C, MySQL** 
