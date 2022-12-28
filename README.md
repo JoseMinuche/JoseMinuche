@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/minuche99" target="blank"><img src="https://img.shields.io/twitter/follow/minuche99?logo=twitter&style=for-the-badge" alt="minuche99" /></a> </p>
 
 - **_PROUDLY ECUADORIAN_ 🇪🇨:**
-- 🌱 I’m currently studying at **ESPOL ✏️** 🐢:
+- 🌱 I’m currently studying at **ESPOL ✏️** 🐢
 
 - 💬 You can ask me about **py, java, C, MySQL** 
 
